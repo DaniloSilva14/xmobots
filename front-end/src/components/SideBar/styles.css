@@ -1,0 +1,29 @@
+.sidebar {
+  width: 200px;
+  height: 100vh;
+  background-color: lightgreen;
+}
+
+.sidebar-logo {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.sidebar-content {
+  display: flex;
+  padding-top: 20px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.line {
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.logout {
+  cursor: pointer;
+}
