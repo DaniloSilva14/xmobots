@@ -58,7 +58,7 @@ const SigninPage = () => {
             margin="normal"
             required
             fullWidth
-            label="Usuario"
+            label="Nome"
             id="user"
             name="user"
             value={user} 

@@ -78,7 +78,7 @@ const LoginPage = () => {
               sx={{ mt: 3, mb: 2 }}
               color="success"
             >
-              Login
+              Entrar
             </Button>
           </Box>
         </Container>
